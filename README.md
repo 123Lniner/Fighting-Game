@@ -10,6 +10,9 @@ This fighting game is very basic, just fight, move around, and defeat your oppon
 - Health Bar Interface
 - Game Timers and Game Over
 ## Credits
+### YouTube
 - Chris Courses (<a href="https://www.youtube.com/@chriscourses/" target="_blank">@ChrisCourses</a>)
+### Github
+- <a href ="https://github.com/123Lniner" target="_blank">123Lniner</a>&nbsp;(Github)
 #
 Please note that this is not finished yet.
